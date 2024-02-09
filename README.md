@@ -4,7 +4,7 @@
 
 > This project talks about reciepes. Here, we describe three different recipes, the recipe of pasta, the recipe of pizza, and the recipe of the arepa.
 
-![screenshot](./app_screenshot.png)
+![screenshot](screenshot.png)
 
 ## Built With
 
@@ -23,9 +23,7 @@ Git Bash
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+**This project is about three different recipes, describing then, naming the ingredients and telling how it´s get done step by step.**
 
 To get a local copy up and running follow these simple example steps.
 
@@ -53,17 +51,14 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
-
 ## Show your support
-
+ 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to Google and GitHub for letting us work in such a good platform.
+- Thanks to aristides1000 who was the inspiration of doing this project.
 
 ## 📝 License
 
