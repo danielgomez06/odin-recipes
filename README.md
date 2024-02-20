@@ -4,7 +4,7 @@
 
 > This project talks about reciepes. Here, we describe three different recipes, the recipe of pasta, the recipe of pizza, and the recipe of the arepa.
 
-![screenshot](./app_screenshot.png)
+![screenshot](screenshot.png)
 
 ## Built With
 
@@ -24,7 +24,10 @@ Git Bash
 ## Getting Started
 
 **This project is about three different recipes, describing then, naming the ingredients and telling how it´s get done step by step.**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2126d164fd741fb9d46bab357052e781e2f14473
 
 To get a local copy up and running follow these simple example steps.
 
@@ -52,10 +55,13 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
+<<<<<<< HEAD
 Feel free to check the [issues page](https://github.com/danielgomez06/odin-recipes/issues).
 
+=======
+>>>>>>> 2126d164fd741fb9d46bab357052e781e2f14473
 ## Show your support
-
+ 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
