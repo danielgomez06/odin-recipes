@@ -18,7 +18,7 @@ Git Bash
 
 ## Live Demo
 
-[Live Demo Link](index.html)
+[Live Demo Link](https://danielgomez06.github.io/odin-recipes/)
 
 
 ## Getting Started
