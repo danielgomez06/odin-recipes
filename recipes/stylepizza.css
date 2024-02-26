@@ -1,0 +1,25 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 900;
+  color: darkblue;
+  background-color: rgba(270, 11, 11, 0.326);
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-weight: 500;
+  color: darkmagenta;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+fieldset {
+  text-align: center;
+  color: aquamarine;
+  background-color: rgba(64, 230, 52, 0.625);
+  margin: 0 250px;
+}

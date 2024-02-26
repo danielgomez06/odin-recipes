@@ -1,0 +1,20 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 1000;
+  font-size: 100px;
+  color: rgb(68, 119, 119);
+  text-align: center;
+  background-color: rgb(32, 13, 13);
+}
+ol {
+  font-weight: 400;
+  font-size: 30px;
+  color: rgb(255, 0, 81);
+}
+fieldset {
+  background-color: rgb(210, 210, 65);
+  border-color: rgb(36, 14, 57);
+}
+li {
+  text-align: inline;
+}
