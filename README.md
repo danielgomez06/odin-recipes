@@ -4,7 +4,7 @@
 
 > This project talks about reciepes. Here, we describe three different recipes, the recipe of pasta, the recipe of pizza, and the recipe of the arepa.
 
-![screenshot](./app_screenshot.png)
+![screenshot](screenshot.png)
 
 ## Built With
 
